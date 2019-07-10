@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.8.0-alpha0-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-api-1.8.0-alpha0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
